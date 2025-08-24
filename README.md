@@ -52,9 +52,11 @@ Designed dashboard to replicate the reference as closely as possible.
 
 ## 📊 Dashboards
 
-🎯 Reference Dashboard (Provided)
+### 🎯 Reference Dashboard (Provided)
+![Reference Dashboard](dashboard.JPG)
 
-🛠️ My Replicated Dashboard
+### 🛠️ My Replicated Dashboard
+![My Dashboard](dashboard_mine.png)
 
 ## 🛠️ Tools Used
 
