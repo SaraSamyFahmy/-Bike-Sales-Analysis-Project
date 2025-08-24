@@ -14,7 +14,7 @@ dashboard_mine.png → My replicated dashboard.
 
 README.md → Documentation file.
 
-✅ Tasks Completed
+## ✅ Tasks Completed
 
 Data Cleaning
 
@@ -50,16 +50,17 @@ Added slicers for Marital Status, Education, and Region.
 
 Designed dashboard to replicate the reference as closely as possible.
 
-📊 Dashboards
+## 📊 Dashboards
+
 🎯 Reference Dashboard (Provided)
 
 🛠️ My Replicated Dashboard
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
 Microsoft Excel (data cleaning, PivotTables, charts, dashboard design).
 
-📌 Key Insights
+## 📌 Key Insights
 
 Middle-aged customers (31–54) represent the largest group of bike purchasers.
 
@@ -69,4 +70,4 @@ Commute distance influences the purchase decision.
 
 Married customers tend to buy more bikes compared to singles.
 
-👉 This project demonstrates how to clean raw data, transform it into meaningful insights, and build a professional dashboard by replicating a given design.
+### 👉 This project demonstrates how to clean raw data, transform it into meaningful insights, and build a professional dashboard by replicating a given design.
