@@ -16,7 +16,7 @@ README.md → Documentation file.
 
 ## ✅ Tasks Completed
 
-1. Data Cleaning
+1- Data Cleaning
 
 Removed duplicate rows.
 
