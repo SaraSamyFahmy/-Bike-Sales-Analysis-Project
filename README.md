@@ -16,7 +16,7 @@ README.md → Documentation file.
 
 ## ✅ Tasks Completed
 
-Data Cleaning
+1. Data Cleaning
 
 Removed duplicate rows.
 
@@ -26,7 +26,7 @@ Marital Status: M → Married, S → Single
 
 Gender: M → Male, F → Female
 
-Feature Engineering
+2. Feature Engineering
 
 Created Age Range column using Nested IF:
 
@@ -36,7 +36,7 @@ Middle Age: 31–54
 
 Old: 55+
 
-Analysis with PivotTables & Charts
+3. Analysis with PivotTables & Charts
 
 Average Income by Gender & Purchase Status.
 
@@ -44,7 +44,7 @@ Bike Purchases by Commute Distance & Purchase Status.
 
 Bike Purchases by Age Range & Purchase Status.
 
-Dashboard Replication
+4. Dashboard Replication
 
 Added slicers for Marital Status, Education, and Region.
 
