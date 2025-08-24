@@ -70,4 +70,4 @@ Commute distance influences the purchase decision.
 
 Married customers tend to buy more bikes compared to singles.
 
-### 👉 This project demonstrates how to clean raw data, transform it into meaningful insights, and build a professional dashboard by replicating a given design.
+👉 This project demonstrates how to clean raw data, transform it into meaningful insights, and build a professional dashboard by replicating a given design.
